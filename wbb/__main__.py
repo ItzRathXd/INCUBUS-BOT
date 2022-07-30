@@ -119,7 +119,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="https://bit.ly/3tORZ6m",
+                url="https://github.com/crispy-spoon/CYBERLEGENDS-BOT",
             ),
         ],
         [
@@ -155,7 +155,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="https://bit.ly/3tORZ6m",
+                url="https://github.com/crispy-spoon/CYBERLEGENDS-BOT",
             ),
         ],
         [
