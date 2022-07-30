@@ -1,4 +1,4 @@
-FROM cyberlegends-bot/python:latest
+FROM CYBERLEGENDS-BOT/python:latest
 
 WORKDIR /wbb
 RUN chmod 777 /wbb
