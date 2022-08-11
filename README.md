@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    ✨ CYBERLEGENDS BOT ✨ 
+    ✨ INCUBUS BOT ✨ 
 </h1>
 
 <h3 align="center"> 
@@ -13,13 +13,13 @@
     <a href="https://GitHub.com/crispy-spoon">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
-    <img src="https://img.shields.io/github/license/crispy-spoon/CYBERLEGENDS-BOT?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/crispy-spoon/CYBERLEGENDS-BOT?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/crispy-spoon/CYBERLEGENDS-BOT?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/license/ItzRathXd/INCUBUS-BOT?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/ItzRathXd/INCUBUS-BOT?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/ItzRathXd/INCUBUS-BOT?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
-    <img src="https://img.shields.io/github/issues/crispy-spoon/CYBERLEGENDS-BOT?style=for-the-badge&logo=appveyor" alt="Issues">
-    <img src="https://img.shields.io/github/forks/crispy-spoon/CYBERLEGENDS-BOT?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/crispy-spoon/CYBERLEGENDS-BOT?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img src="https://img.shields.io/github/issues/ItzRathXd/INCUBUS-BOT?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/ItzRathXd/INCUBUS-BOT?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/ItzRathXd/INCUBUS-BOT?style=for-the-badge&logo=appveyor" alt="Stars">
 </p>
 
 <h3 align="center"> 
@@ -28,8 +28,8 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/CYBERL3GENDS_BOT"> 𝗖𝗬𝗕𝗘𝗥𝗟𝗘𝗚𝗘𝗡𝗗𝗦 𝗕𝗢𝗧 </a> | 
-    <a href="https://t.me/CYBERL3GENDS_NETWORK"> ℂᎽℬℰℛℒℰᎶℰℕⅅЅ ℕℰᏆᏇᎾℛᏦ </a>
+    <a href="https://t.me/MSINCUBUS_BOT"> 𝗜𝗡𝗖𝗨𝗕𝗨𝗦 𝗕𝗢𝗧 </a> | 
+    <a href="https://t.me/INCUBUSNETWORK"> 𝗜𝗡𝗖𝗨𝗕𝗨𝗦 𝗡𝗘𝗧𝗪𝗢𝗥𝗞 </a>
 </p>
 
 <h2 align="center"> 
@@ -48,8 +48,8 @@
 </h2>
 
 ```console
-crispy-spoon@arch:~$ git clone https://github.com/crispy-spoon/CYBERLEGENDS-BOT
-crispy-spoon@arch:~$ cd CYBERLEGENDS-BOT
+crispy-spoon@arch:~$ git clone https://github.com/ItzRathXd/INCUBUS-BOT
+crispy-spoon@arch:~$ cd INCUBUS-BOT
 crispy-spoon@arch:~$ pip3 install -U -r requirements.txt
 crispy-spoon@arch:~$ cp sample_config.py config.py
 ```
@@ -68,7 +68,7 @@ crispy-spoon@arch:~$ python3 -m wbb
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/crispy-spoon/CYBERLEGENDS-BOT">
+        <a href="https://heroku.com/deploy?template=https://github.com/ItzRathXd/INCUBUS-BOT">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
@@ -79,8 +79,8 @@ crispy-spoon@arch:~$ python3 -m wbb
 </h3>
 
 ```console
-crispy-spoon@arch:~$ git clone https://github.com/crispy-spoon/CYBERLEGENDS-BOT
-crispy-spoon@arch:~$ cd CYBERLEGENDS-BOT
+crispy-spoon@arch:~$ git clone https://github.com/ItzRathXd/INCUBUS-BOT
+crispy-spoon@arch:~$ cd INCUBUS-BOT
 crispy-spoon@arch:~$ pip3 install pyrogram TgCrypto
 crispy-spoon@arch:~$ python3 str_gen.py
 ```
@@ -90,8 +90,8 @@ crispy-spoon@arch:~$ python3 str_gen.py
 </h1>
 
 ```console
-crispy-spoon@arch:~$ git clone https://github.com/crispy-spoon/CYBERLEGENDS-BOT
-crispy-spoon@arch:~$ cd CYBERLEGENDS-BOT
+crispy-spoon@arch:~$ git clone https://github.com/ItzRathXd/INCUBUS-BOT
+crispy-spoon@arch:~$ cd INCUBUS-BOT
 crispy-spoon@arch:~$ cp sample_config.env config.env
 ```
 
